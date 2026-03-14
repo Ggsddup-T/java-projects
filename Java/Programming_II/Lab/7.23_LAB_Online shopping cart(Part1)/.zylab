@@ -1,0 +1,4 @@
+add_terminals: false
+show_desktop_tab: false
+indent_size: 3
+indent_type: spaces

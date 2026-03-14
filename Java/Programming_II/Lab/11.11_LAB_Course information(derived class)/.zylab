@@ -1,0 +1,27 @@
+default_file: ""
+run_dropdown_show_all: false
+run_dropdown: []
+run_command: ""
+compile_command: ""
+hidden_files: [.*, .envrc, .zylab]
+readonly_files: [CourseInformation.java]
+file_tab_list: []
+add_terminals: false
+show_reset_data: false
+reset_data_text: Restore lab data folder
+waiting_for_input: true
+show_desktop_tab: false
+desktop_tab_text: DESKTOP
+open_desktop_start: false
+show_webview_tab: false
+webview_button_text: WEBVIEW
+open_webview_start: false
+webview_port: "8080"
+webview_custom_path: ""
+indent_size: 3
+wrapping: false
+indent_type: spaces
+enable_auto_suggestions: true
+enable_auto_suggestions_override: false
+output_fullscreen_on_start: false
+is_stacked_view: true
