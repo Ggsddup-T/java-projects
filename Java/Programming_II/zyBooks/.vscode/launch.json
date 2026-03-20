@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CommandLineArguments",
+            "request": "launch",
+            "mainClass": "CommandLineArguments",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
             "name": "CabinetWriter",
             "request": "launch",
             "mainClass": "CabinetWriter",
