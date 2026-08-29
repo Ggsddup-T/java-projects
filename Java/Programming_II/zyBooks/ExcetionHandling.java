@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabProgram {
+public class ExcetionHandling {
     public static void main(String[] args) {
         String[] names = { "Ryley", "Edan", "Reagan", "Henry", "Caius", "Jane", "Guto", "Sonya", "Tyrese", "Johnny" };
         int index;

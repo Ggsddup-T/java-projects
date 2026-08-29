@@ -6,6 +6,105 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringOutputStream",
+            "request": "launch",
+            "mainClass": "StringOutputStream",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingSpreePermutations",
+            "request": "launch",
+            "mainClass": "ShoppingSpreePermutations",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "WordScrambler",
+            "request": "launch",
+            "mainClass": "WordScrambler",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "ExponentMethod",
+            "request": "launch",
+            "mainClass": "ExponentMethod",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "GCDCalc",
+            "request": "launch",
+            "mainClass": "GCDCalc",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSequence",
+            "request": "launch",
+            "mainClass": "FibonacciSequence",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "StockTotal",
+            "request": "launch",
+            "mainClass": "Recursive.StockTotal",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "StockTotal",
+            "request": "launch",
+            "mainClass": "StockTotal",
+            "projectName": "zyBooks_801fe6b2",
+            "cwd": "${workspaceFolder}/Recursive"
+        },
+        {
+            "type": "java",
+            "name": "SmileyPrinter",
+            "request": "launch",
+            "mainClass": "SmileyPrinter",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "PrimeChecker",
+            "request": "launch",
+            "mainClass": "PrimeChecker",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "NameFinder",
+            "request": "launch",
+            "mainClass": "NameFinder",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "ExcetionHandling",
+            "request": "launch",
+            "mainClass": "ExcetionHandling",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "zyBooks_801fe6b2"
+        },
+        {
+            "type": "java",
             "name": "CommandLineArguments",
             "request": "launch",
             "mainClass": "CommandLineArguments",
